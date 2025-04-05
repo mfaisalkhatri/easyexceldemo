@@ -14,7 +14,7 @@ public class RegistrationDataBuilder {
         RegistrationDataListener registrationDataListener = new RegistrationDataListener ();
         EasyExcel.read (TEST_DATA_FILE, RegistrationData.class, registrationDataListener)
             .sheet ()
-            .doReadSync ();
+            .doRead ();
         return registrationDataListener.getRegistrationDataList ();
     }
 }

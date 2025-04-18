@@ -8,6 +8,10 @@
   (https://practicesoftwaretesting.com/auth/register)
 - Selenium WebDriver is used for Web automation testing and TestNG is used as Test runner.
 
+## :movie_camera: Tutorial Video
+
+[![Watch the video](https://img.youtube.com/vi/KtsnA-F-nRs/hqdefault.jpg)](https://youtu.be/KtsnA-F-nRs)
+
 ## 🧬 Need Assistance?
 
 - Discuss your queries by writing to me @ `mohammadfaisalkhatri@gmail.com`
